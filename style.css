@@ -7,7 +7,7 @@ font-size: 50px;
 	font-style: italic;
 }
 #sub1 {
-	font-size: 35px;
+	font-size: 25px;
 	font-family: 'Merriweather', serif;
 }
 p {
@@ -30,7 +30,16 @@ padding-left: 15px;
 border-right: 8px solid #E1A000;
 border-left: 8px solid #E1A000;
 }
+/*pics*/
+.debrispic {
+	width: 100%;
+	margin: 0 auto;
+}
 .mappic {
 	width: 100%
+	margin: 0 auto;
+}
+.aerial {
+	width: 100%;
 	margin: 0 auto;
 }
