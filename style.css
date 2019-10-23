@@ -65,6 +65,7 @@ border-left: 8px solid #E1A000;
 }
 .related {
 	font-style: italic;
-	font-size: 20px;
+	font-size: 35px;
 	color: blue;
+	border-bottom: 2px solid #E1A000;
 }
