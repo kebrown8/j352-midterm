@@ -6,8 +6,8 @@ font-size: 50px;
 #byline {
 	font-style: italic;
 }
-.sub1 {
-	font-size: 25px;
+#sub1 {
+	font-size: 35px;
 	font-family: 'Merriweather', serif;
 }
 p {
@@ -19,7 +19,7 @@ p {
 	width: 700px;
 }
 blockquote {
-font-size: 25px;
+font-size: 20px;
 font-family: Helvetica, Arial, sans-serif;
 font-style: italic;
 margin-top: 15px;
@@ -29,4 +29,8 @@ margin-left: 50px;
 padding-left: 15px;
 border-right: 8px solid #E1A000;
 border-left: 8px solid #E1A000;
+}
+.mappic {
+	width: 100%
+	margin: 0 auto;
 }
