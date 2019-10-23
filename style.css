@@ -55,3 +55,7 @@ border-left: 8px solid #E1A000;
 	width: 100%;
 	margin: 0 auto;
 }
+.credit {
+	font-size: 10px;
+	font-style: italic;
+}
