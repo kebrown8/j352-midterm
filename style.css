@@ -33,32 +33,34 @@ border-left: 8px solid #E1A000;
 /*pics*/
 .debrispic {
 	width: 100%;
-	margin: 0 auto;
+	margin: 20px;
 }
 .insidepic
 	width: 100%;
-	margin: 0 auto;
+	margin: 20px;
 }
 .aerial {
 	width: 100%;
-	margin: 0 auto;
+	margin: 20px;
 }
 .mappic {
 	width: 100%;
-	margin: 0 auto;
+	margin: 20px;
 }
 .NDpic {
 	width: 100%;
-	margin: 0 auto;
+	margin: 20px;
 }
 .toppic {
 	width: 100%;
-	margin: 0 auto;
+	margin: 20px;
 }
 .credit {
 	font-size: 10px;
 	font-style: italic;
+	height: 100px;
 }
 .links {
 	font-style: italic;
+	height: 100px;
 }
