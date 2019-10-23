@@ -35,8 +35,8 @@ border-left: 8px solid #E1A000;
 	width: 100%;
 	margin: 0 auto;
 }
-.diagrampic {
-	width: 100%
+.insidepic
+	width: 100%;
 	margin: 0 auto;
 }
 .aerial {
@@ -48,6 +48,10 @@ border-left: 8px solid #E1A000;
 	margin: 0 auto;
 }
 .NDpic {
+	width: 100%;
+	margin: 0 auto;
+}
+.toppic {
 	width: 100%;
 	margin: 0 auto;
 }
